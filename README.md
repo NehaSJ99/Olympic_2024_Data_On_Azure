@@ -47,4 +47,4 @@ This project focuses on ingesting, transforming, and analyzing data related to t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/NehaSJ99/Olympic_2024_Data_On_Azure.git
